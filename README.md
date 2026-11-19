@@ -62,3 +62,19 @@ The Looker Studio dashboard includes:
 
 ## Project Outcome
 This project demonstrates an end-to-end retail analytics workflow, from data storage and SQL-based analysis to spreadsheet analysis and interactive business intelligence reporting.
+
+
+## Interactive Dashboard
+
+Explore the live Retail Sales & Profitability Intelligence dashboard:
+
+[View Interactive Dashboard](https://datastudio.google.com/reporting/4793b784-b266-4611-a7ea-036ff34e3eb3)
+
+The dashboard provides insights into:
+- Overall sales, profit, profit margin, and orders
+- Category-wise sales performance
+- Regional profitability
+- Monthly sales trends
+- Discount impact on profitability
+- Top 10 loss-making products
+
